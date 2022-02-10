@@ -17,7 +17,7 @@ packages = [
 python = "^3.7"
 msgpack = "==1.0.2"
 requests = ">=2.22.0"
-websockets = "^8.1"
+websockets = "^9.1"
 
 [tool.poetry.dev-dependencies]
 pytest = "^3.0"
