@@ -5,6 +5,8 @@ This is asyncio version of the original SignalR Core [library](https://github.co
 The main difference is that `websocket` library is replaced with asyncio-compatabile `websockets`.  
 All future changes in the original repo will be merged to this fork inheriting the major and minor version number.
 
+**DEPRECATED: use [pysignalr](https://github.com/baking-bad/pysignalr) instead**
+
 ## Installation
 
 ```
